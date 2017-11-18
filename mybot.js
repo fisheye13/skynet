@@ -218,7 +218,6 @@ client.on("message", (message) => {
   
   	
   	}
-//}
 )
 ;
 
